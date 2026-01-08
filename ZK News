@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>ZK News</title>
+  <style>
+    body {
+      background: pastelgradient;
+      font-family: Arial;
+      text-align: center;
+    }
+    h1 {
+      color: purple;
+    }
+  </style>
+</head>
+<body>
+  <h1>ZK News</h1>
+  <p>Safe news for kids 🌈</p>
+</body>
+</html>
